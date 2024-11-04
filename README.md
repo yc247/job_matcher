@@ -4,7 +4,7 @@ Job Matcher is an NLP-based tool designed to streamline the job search process b
 
 This project aims to help users quickly identify opportunities that align with their skills and experience, reducing the time spent on mismatched applications.
 
-## 💡 Inspiration
+## 💡 Project Motivation
 
 Job hunting can be exhausting, especially when it involves sifting through countless listings and submitting endless applications. The idea for this project came from my own experience applying for data science roles, where I noticed that identical job titles often entail very different responsibilities depending on the company or industry. This makes it challenging and time-consuming to find positions that truly align with one’s skills and interests. Job Matcher is my attempt to make this process easier by providing a tool that streamlines job searching process.
 
