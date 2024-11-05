@@ -11,7 +11,7 @@ Job hunting can be exhausting, especially when it involves sifting through count
 ## 🌏 Features Built
 - **Resume Parsing**: Built a resume parser to extract professional experience from uploaded resumes, such as skills, experience, and qualifications, allowing the system to match job recommendations more accurately.
 - **Text Data Preprocessing**: Implemented a thorough text cleaning pipeline, including normalization, tokenization, and removal of unnecessary characters, to ensure consistent and high-quality input data for analysis.
-- **Fine-Tuning TLNK Model**: Adapted the TLNK (Transformer-based model for Named Knowledge) for this specific application by fine-tuning it on relevant job description data, enhancing its ability to identify and recommend the most similar jobs based on user input.
+- **TF-IDF Similarity Comparison**: Configured a TF-IDF (Term Frequency-Inverse Document Frequency) model with optimized parameters to measure the similarity between job descriptions and resumes, enabling more accurate job recommendations.
 - **Interactive Streamlit App**: Created a Streamlit app for users to upload resumes or job descriptions and receive job recommendations.
 
 ## 💾 Data Used 
